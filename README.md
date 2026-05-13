@@ -153,8 +153,16 @@ Using Matplotlib:
 - Focus on how hyperparameters affect learning dynamics
 - Document observations and create visualizations for each experiment
 - Use this as a foundation for understanding deeper learning concepts
+  
+## 📝 License
 
-## Author
+This project is for educational purposes.
 
-Deep Learning Lab - Experimental Study on Neural Networks
+## 👤 Author
+
+Created as part of MCA Deep Learning coursework.
+
+---
+
+**Happy Learning!** 🚀
 
